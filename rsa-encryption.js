@@ -1,5 +1,7 @@
 // Não esqueça de executar o seguinte comando para instalar as dependências:
 // npm i 
+// Comando para executar o código
+// node rsa-encryption
 
 const forge = require('node-forge');
 
